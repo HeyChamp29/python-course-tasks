@@ -31,3 +31,31 @@ This Python script:
 ```bash
 python task2_greeting.py
 ```
+
+---
+
+## 🧪 Sample Output
+
+### Task 1: Basic Mathematical Operations
+
+```
+Enter the first number: 10
+Enter the second number: 5
+
+--- Results ---
+Addition: 15.0
+Subtraction: 5.0
+Multiplication: 50.0
+Division: 2.0
+```
+
+---
+
+### Task 2: Personalized Greeting
+
+```
+Enter your first name: Aman
+Enter your last name: Shah
+
+Hello, Aman Shah! Welcome to the course!
+```
