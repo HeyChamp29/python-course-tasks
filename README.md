@@ -140,6 +140,40 @@ Have a great day!
 
 ---
 
+✅ Task 3: Create a Dictionary of Student Marks
+
+This script:
+
+Creates a dictionary with student names as keys and their marks as values
+Takes a student's name as input
+Displays their marks if found
+Shows an appropriate message if not found
+Sample Output:
+
+Enter the student's name: John  
+Marks: 85
+
+Enter the student's name: Alice  
+Student not found.
+
+**File:** `task3_student_marks.py`
+
+✅ Task 4: Demonstrate List Slicing
+
+This script:
+
+Creates a list of numbers from 1 to 10
+Extracts the first five elements
+Reverses the extracted sublist
+Prints both the sliced and reversed lists
+Sample Output:
+
+Original list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]  
+First five elements: [1, 2, 3, 4, 5]  
+Reversed list: [5, 4, 3, 2, 1]
+
+**File**: `task4_list_slicing.py`
+
 ## 📂 Folder Structure
 
 python-course-tasks/
@@ -151,6 +185,8 @@ python-course-tasks/
 ├── task6_math_module.py
 ├── task7_read_file.py
 ├── task8_write_append_file.py
+├── task9_student_marks.py
+├── task10_list_slicing.py
 └── README.md
 
 
